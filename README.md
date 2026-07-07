@@ -98,25 +98,8 @@ Each subagent's `sandbox_mode` field controls filesystem access:
 - **Workspace-write agents** (developers, engineers): `sandbox_mode = "workspace-write"` - create and modify files
 
 
+
 ## Sponsors
-
-<br/>
-
-<a href="https://launchkit.getdesign.md/">
-<img src="https://cdn.voltagent.dev/awesome-repo/launchkit-banner-3.png" alt="launchkit"  /><br/>
-</a>
-
-## Ecosystem Tools
-
-Tools, platforms, and services for building 
-
- - If you're building AI agents in TypeScript, VoltAgent gives you tool use, memory, and multi-agent coordination out of the box.
-
-    <a href="https://github.com/VoltAgent/voltagent">
-    <img height="80" alt="voltagent-banner" src="https://github.com/user-attachments/assets/7196f50b-ca98-494c-8aa0-11e111c49f96" />
-    </a>
-<br/>
-
 <div align="center">
 
 <table>
